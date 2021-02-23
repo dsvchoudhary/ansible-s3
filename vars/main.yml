@@ -1,0 +1,4 @@
+---
+
+state: present
+bucket_name: my-test-bucket-123-krupa
